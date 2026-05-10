@@ -16,7 +16,7 @@
   - often strong at producing SQL structure quickly
   - requires verification for business logic and correctness
 
-## Advice to future self/colleagues
+## Advice to future self
 - Always start with exact DDL/table definitions.
 - Ask the LLM to list assumptions before producing final SQL.
 - Run small sanity checks (counts, min/max) after generation.
