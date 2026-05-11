@@ -6,11 +6,11 @@
 
 ## Part 5b - Confirm data range
 
-![alt text](Solutions_Images\image-5.png)
+![alt text](Solutions_Images/image-5.png)
 
 ## Part 5c - Working example at 2011-05-01
 
-![alt text](Solutions_Images\image-6.png)
+![alt text](Solutions_Images/image-6.png)
 
 ## Query Logic
 
@@ -22,3 +22,4 @@ This captures a snapshot of departmental headcount on a specific date.
 
 **Database:** AdventureWorks (OLTP)  
 **Tables:** EmployeeDepartmentHistory, Department
+

@@ -1,6 +1,6 @@
 # Task 1 - Letters not appearing at each position of the 3-letter country code
 
-![alt text](/Solutions_Images\image.png)
+![alt text](Solutions_Images/image.png)
 
 ## Explanation
 
@@ -14,3 +14,4 @@ This query:
 
 **Database:** world (SQLite)  
 **Tables:** country
+

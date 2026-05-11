@@ -5,7 +5,7 @@
 The `SurfaceArea` column in the country table is in km². To convert to people per square mile:
 - Conversion factor: 1 km² = 0.386102 mi²
 - Formula: `pop / (SurfaceArea * 0.386102)`
-![alt text](Solutions_Images\image-1.png)
+![alt text](Solutions_Images/image-1.png)
 
 ## Explanation
 
@@ -23,3 +23,4 @@ Window functions (`ROW_NUMBER()`, `COUNT() OVER()`) allow us to compute ranking 
 
 **Database:** world (SQLite)  
 **Tables:** country
+

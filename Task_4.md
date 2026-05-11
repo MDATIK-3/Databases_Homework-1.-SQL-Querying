@@ -2,11 +2,11 @@
 
 ## Part 4a - Simple (unweighted) approach
 
-![alt text](Solutions_Images\image-3.png)
+![alt text](Solutions_Images/image-3.png)
 
 ## Part 4b - Population-weighted approach (more correct)
 
-![alt text](Solutions_Images\image-4.png)
+![alt text](Solutions_Images/image-4.png)
 
 ### Methodology
 

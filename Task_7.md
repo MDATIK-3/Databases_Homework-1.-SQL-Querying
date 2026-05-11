@@ -2,15 +2,15 @@
 
 ## Part 7a - Spot-check: verify manager assignments
 
-![alt text](Solutions_Images\image-9.png)
+![alt text](Solutions_Images/image-9.png)
 
 ## Part 7b - Total chains and maximum depth
 
-![alt text](Solutions_Images\image-10.png)
+![alt text](Solutions_Images/image-10.png)
 
 ## Part 7c - Maximal chains: CEO to leaf employees
 
-![alt text](Solutions_Images\image-11.png)
+![alt text](Solutions_Images/image-11.png)
 
 ### Key Components
 
@@ -36,3 +36,4 @@
 
 **Database:** AdventureWorks (OLTP)  
 **Tables:** EmployeeManager, Employee
+

@@ -2,11 +2,11 @@
 
 ## Part 6a - Main answer: single largest move
 
-![alt text](Solutions_Images\image-7.png)
+![alt text](Solutions_Images/image-7.png)
 
 ## Part 6b - Top 10 moves (for context)
 
-![alt text](Solutions_Images\image-8.png)
+![alt text](Solutions_Images/image-8.png)
 
 ## Explanation
 
@@ -26,3 +26,4 @@
 
 **Database:** AdventureWorks (OLTP)  
 **Tables:** CurrencyRate
+

@@ -1,6 +1,6 @@
 # Task 3 — Countries with the smallest share of population in the capital
 
-![alt text](Solutions_Images\image-2.png)
+![alt text](Solutions_Images/image-2.png)
 
 ## Explanation
 
@@ -15,3 +15,4 @@ This query:
 
 **Database:** world (SQLite)  
 **Tables:** country, city
+

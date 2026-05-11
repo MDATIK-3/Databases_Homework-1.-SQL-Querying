@@ -2,11 +2,11 @@
 
 ## Part 8a - Per-rating roll-up
 
-![alt text](Solutions_Images\image-12.png)
+![alt text](Solutions_Images/image-12.png)
 
 ## Part 8b - Pearson correlation: CreditRating vs spend
 
-![alt text](Solutions_Images\image-13.png)
+![alt text](Solutions_Images/image-13.png)
 
 **Formula:** Pearson's r is the ratio of covariance to the product of standard deviations:
 $$r = \frac{\text{E}[XY] - \text{E}[X] \cdot \text{E}[Y]}{\sqrt{\text{E}[X^2] - \text{E}[X]^2} \cdot \sqrt{\text{E}[Y^2] - \text{E}[Y]^2}}$$
@@ -18,7 +18,7 @@ $$r = \frac{\text{E}[XY] - \text{E}[X] \cdot \text{E}[Y]}{\sqrt{\text{E}[X^2] - 
 
 ## Part 8c - Spearman correlation (rank-based)
 
-![alt text](Solutions_Images\image-14.png)
+![alt text](Solutions_Images/image-14.png)
 
 **Why Spearman?** Rank-based correlation is robust to outliers and doesn't assume linearity-it measures monotonic association.
 
@@ -29,7 +29,7 @@ $$r = \frac{\text{E}[XY] - \text{E}[X] \cdot \text{E}[Y]}{\sqrt{\text{E}[X^2] - 
 
 ## Part 8d - Top 5 vendors by spend
 
-![alt text](Solutions_Images\image-15.png)
+![alt text](Solutions_Images/image-15.png)
 
 ## Interpretation Tips
 
@@ -39,3 +39,4 @@ $$r = \frac{\text{E}[XY] - \text{E}[X] \cdot \text{E}[Y]}{\sqrt{\text{E}[X^2] - 
 
 **Database:** AdventureWorks (OLTP)  
 **Tables:** Vendor, PurchaseOrderHeader
+

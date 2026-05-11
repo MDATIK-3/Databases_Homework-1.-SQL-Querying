@@ -2,15 +2,15 @@
 
 ## Part 9a - Group means by Gender × MaritalStatus
 
-![alt text](Solutions_Images\image-16.png)
+![alt text](Solutions_Images/image-16.png)
 
 ## Part 9b - By age band
 
-![alt text](Solutions_Images\image-17.png)
+![alt text](Solutions_Images/image-17.png)
 
 ## Part 9c - Pearson correlation: age vs pay
 
-![alt text](Solutions_Images\image-18.png)
+![alt text](Solutions_Images/image-18.png)
 
 **Interpretation:**
 - **r > 0** → Positive correlation: Older employees tend to earn more (experience premium)
@@ -20,7 +20,7 @@
 
 ## Part 9d - Marginal effect of gender (controlling for age band)
 
-![alt text](Solutions_Images\image-19.png)
+![alt text](Solutions_Images/image-19.png)
 
 **Result:** Pay by gender within each age band-reveals whether gender pay gaps exist at each career stage.
 
@@ -51,3 +51,4 @@ CAST((julianday('2014-06-30') - julianday(BirthDate)) / 365.25 AS INTEGER) AS Ag
 
 **Database:** AdventureWorks (OLTP)  
 **Tables:** Employee, EmployeePayHistory
+
